@@ -1,4 +1,4 @@
-# Enhanced Proctoring System: Computer Vision in Education
+# Enhanced Proctoring System: Computer Vision
 
 ## Overview
 The Enhanced Proctoring System is a computer vision-based solution designed for monitoring and enhancing security during educational assessments. The system employs various computer vision techniques to detect and track facial features, eye movements, and gaze direction for a more robust and accurate proctoring experience.
