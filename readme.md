@@ -86,6 +86,10 @@ Use these instructions to launch the programs in this folder:
 ## Resources
 - Add any additional documentation, guides, or images in the 'Resources' directory.
 
+## Calibration
+
+![result1](https://github.com/nitinshivakumar/Enhanced-Proctoring-System-Computer-Vision/blob/main/FaceEncode/Result/2024-01-03%2003%3A02%3A28%20%2B0000.GIF)
+
 ## Results
 
 ![result1](https://github.com/nitinshivakumar/Enhanced-Proctoring-System-Computer-Vision/blob/main/FaceEncode/Result/2024-01-01%2023%3A16%3A17%20%2B0000.GIF)
@@ -93,3 +97,5 @@ Use these instructions to launch the programs in this folder:
 ![result2](https://github.com/nitinshivakumar/Enhanced-Proctoring-System-Computer-Vision/blob/main/FaceEncode/Result/GMP_U2F2ZUdIMDE%3D%202.GIF)
 
 ![result3](https://github.com/nitinshivakumar/Enhanced-Proctoring-System-Computer-Vision/blob/main/FaceEncode/Result/GMP_U2F2ZUdIMDE%3D.GIF)
+
+![result4](https://github.com/nitinshivakumar/Enhanced-Proctoring-System-Computer-Vision/blob/main/FaceEncode/Result/2024-01-03%2002%3A58%3A12%20%2B0000.GIF)
