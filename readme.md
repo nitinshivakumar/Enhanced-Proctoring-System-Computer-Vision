@@ -85,3 +85,11 @@ Use these instructions to launch the programs in this folder:
 
 ## Resources
 - Add any additional documentation, guides, or images in the 'Resources' directory.
+
+## Results
+
+![result1](https://github.com/nitinshivakumar/Enhanced-Proctoring-System-Computer-Vision/blob/main/FaceEncode/Result/2024-01-01%2023%3A16%3A17%20%2B0000.GIF)
+
+![result2](https://github.com/nitinshivakumar/Enhanced-Proctoring-System-Computer-Vision/blob/main/FaceEncode/Result/GMP_U2F2ZUdIMDE%3D%202.GIF)
+
+![result3](https://github.com/nitinshivakumar/Enhanced-Proctoring-System-Computer-Vision/blob/main/FaceEncode/Result/GMP_U2F2ZUdIMDE%3D.GIF)
