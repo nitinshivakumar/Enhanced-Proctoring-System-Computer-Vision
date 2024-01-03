@@ -1,0 +1,10 @@
+dlib
+cmake
+face-recognition
+cvzone
+opencv-python==4.5.4.60
+tensorflow
+wget
+scipy
+imutils
+ultralytics
